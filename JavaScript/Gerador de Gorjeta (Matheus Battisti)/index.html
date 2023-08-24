@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gerador de Gorjetas</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <script src="js/scripts.js" defer></script>
+
+</head>
+<body>
+    
+    <div class="calculator">
+
+        <h2>Calculadora de Gorjetas</h2>
+        <label for="billAmount">Valor da conta:</label>
+        <input type="number" id="billAmount" name="billAmount" placeholder="R$">
+
+        <label for="serviceQuality">Qualidade do serviço:</label>
+        <select name="serviceQuality" id="serviceQuality">
+            <option value="0.1">Excelente - 10%</option>
+            <option value="0.08">Ótimo - 8%</option>
+            <option value="0.05">Bom - 5%</option>
+            <option value="0.02">Ruim - 2%</option>
+        </select>
+
+        <button id="calculateBtn">Calcular Gorjeta</button>
+        <div class="result">
+            <label for="tipAmout">Valor da gorjeta:</label>
+            <input type="text" id="tipAmount" name="tipAmount" disabled/>
+            <label for="totalAmount">Valor total:</label>
+            <input type="text" id="totalAmount" name="totalAmount" disabled/>
+        </div>
+    </div>
+
+    <footer>
+        <p><div class="note">Projeto para fins de estudo <br> 
+            Professor: Matheus Battisti - Hora de Codar<br> 
+            Aluno: Fernando C. Pagani</div></p>
+    </footer>
+
+</body>
+</html>
