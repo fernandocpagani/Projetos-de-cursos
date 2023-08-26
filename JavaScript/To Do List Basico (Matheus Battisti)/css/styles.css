@@ -1,0 +1,38 @@
+body {
+    font-family: arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: f0f0f0;
+}
+
+#app{
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+    padding: 20px;
+    border-radius: 5px;
+    background-color: white;
+}
+
+#task-form{
+    display: flex;
+    margin-bottom: 20px;
+}
+
+#task-input{
+    flex-grow: 1;
+    margin-right: 10px;
+}
+
+#task-list{
+    list-style-type: none;
+    padding: 0;
+}
+
+.note{
+    margin-top: 50px;
+    color: red;
+    text-align: center;
+}
