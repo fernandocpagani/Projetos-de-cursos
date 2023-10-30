@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="414" height="831" viewBox="0 0 414 831">
+  <defs>
+    <clipPath id="clip-transferencia-2_1">
+      <rect width="414" height="831"/>
+    </clipPath>
+  </defs>
+  <g id="transferencia-2_1" data-name="transferencia-2 – 1" clip-path="url(#clip-transferencia-2_1)">
+    <rect width="414" height="831" fill="#320995"/>
+    <g id="Grupo_484" data-name="Grupo 484" transform="translate(-4 5)">
+      <g id="Grupo_483" data-name="Grupo 483" transform="translate(414.781 575.5) rotate(180)">
+        <path id="Caminho_2382" data-name="Caminho 2382" d="M4435.513-2851.89l9.068,9.068-9.068,9.068" transform="translate(-4067.766 3378.822)" fill="none" stroke="#c8c7c7" stroke-linecap="round" stroke-width="3"/>
+      </g>
+    </g>
+    <text id="Quanto_deseja_transferir" data-name="Quanto deseja transferir" transform="translate(124 50)" fill="#fff" font-size="14" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">Quanto deseja transferir</tspan></text>
+    <g id="Grupo_20279" data-name="Grupo 20279" transform="translate(-20 -267)">
+      <path id="Caminho_7554" data-name="Caminho 7554" d="M10,0H368a10,10,0,0,1,10,10V50a10,10,0,0,1-10,10H10A10,10,0,0,1,0,50V10A10,10,0,0,1,10,0Z" transform="translate(38 570)" fill="#e2306c"/>
+      <text id="Continuar" transform="translate(197 606)" fill="#fff" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Continuar</tspan></text>
+    </g>
+    <path id="Caminho_7553" data-name="Caminho 7553" d="M10,0H368a10,10,0,0,1,10,10V182a10,10,0,0,1-10,10H10A10,10,0,0,1,0,182V10A10,10,0,0,1,10,0Z" transform="translate(18 88)" fill="#f7f3ff"/>
+    <text id="R_" data-name="R$" transform="translate(161 166)" fill="#393939" font-size="14" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">R$</tspan></text>
+    <text id="_0" data-name="0" transform="translate(189 190)" fill="#393939" font-size="57" font-family="Montserrat-Thin, Montserrat" font-weight="200"><tspan x="0" y="0">0</tspan></text>
+    <text id="Saldo:_R_750_68" data-name="Saldo: R$ 750,68" transform="translate(159 229)" fill="#393939" font-size="12" font-family="Montserrat-Regular, Montserrat" opacity="0.5"><tspan x="0" y="0">Saldo: R$ 750,68</tspan></text>
+  </g>
+</svg>

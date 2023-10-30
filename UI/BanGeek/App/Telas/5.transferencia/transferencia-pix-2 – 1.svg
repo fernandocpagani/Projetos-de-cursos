@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="414" height="831" viewBox="0 0 414 831">
+  <defs>
+    <filter id="Caminho_7443" x="127" y="611" width="160" height="160" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-color="#e2306c" flood-opacity="0.69"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-transferencia-pix-2_1">
+      <rect width="414" height="831"/>
+    </clipPath>
+  </defs>
+  <g id="transferencia-pix-2_1" data-name="transferencia-pix-2 – 1" clip-path="url(#clip-transferencia-pix-2_1)">
+    <rect width="414" height="831" fill="#320995"/>
+    <g id="Grupo_484" data-name="Grupo 484" transform="translate(-4 5)">
+      <g id="Grupo_483" data-name="Grupo 483" transform="translate(414.781 575.5) rotate(180)">
+        <path id="Caminho_2382" data-name="Caminho 2382" d="M4435.513-2851.89l9.068,9.068-9.068,9.068" transform="translate(-4067.766 3378.822)" fill="none" stroke="#c8c7c7" stroke-linecap="round" stroke-width="3"/>
+      </g>
+    </g>
+    <text id="Informe_o_e-mail_do_destinatário" data-name="Informe o e-mail do destinatário" transform="translate(108 50)" fill="#fff" font-size="14" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">Informe o e-mail do destinatário</tspan></text>
+    <g id="Grupo_20281" data-name="Grupo 20281" transform="translate(5 -70)">
+      <rect id="Retângulo_234" data-name="Retângulo 234" width="328" height="60" rx="10" transform="translate(38 244)" fill="#5b31c1"/>
+      <text id="Email" transform="translate(61 280)" fill="#fff" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Email</tspan></text>
+    </g>
+    <g id="Grupo_20424" data-name="Grupo 20424" transform="translate(-5.056 -310.629)">
+      <g id="Grupo_20425" data-name="Grupo 20425" transform="translate(191.939 400.26)">
+        <path id="Caminho_7501" data-name="Caminho 7501" d="M-16622.619-22592.795l7.629-7.2a6.15,6.15,0,0,1,8.484,0l7.281,7.2s-3.285.211-4.711,1.641c-.07,0-6.035,6.2-6.035,6.2a.956.956,0,0,1-1.473,0c-.078-.074-6.953-7.062-6.953-7.062a4.483,4.483,0,0,0-3.668-.781A4.38,4.38,0,0,1-16622.619-22592.795Z" transform="translate(16630.938 22601.74)" fill="#e2306c"/>
+        <path id="Caminho_7502" data-name="Caminho 7502" d="M0,8.945l7.628-7.2a6.152,6.152,0,0,1,8.487,0l7.278,7.2s-3.283.213-4.709,1.639c-.071,0-6.036,6.206-6.036,6.206a.96.96,0,0,1-1.474,0c-.076-.076-6.952-7.066-6.952-7.066A4.478,4.478,0,0,0,.557,8.945,4.389,4.389,0,0,1,0,8.945Z" transform="translate(31.999 39.738) rotate(180)" fill="#e2306c"/>
+        <path id="Caminho_7503" data-name="Caminho 7503" d="M-16620-22596.506c-1.6,1.527-5.043,5.234-5.043,5.234a3.956,3.956,0,0,0,0,5.3c0-.066,5.555,6.258,5.555,6.258a5.511,5.511,0,0,0,4.855-.32c.059,0,7.4-7.277,7.4-7.277a3.732,3.732,0,0,1,2.492,0c.191,0,7.727,7.277,7.727,7.277s3.129,1.531,4.98,0c0-.129,5.367-5.937,5.367-5.937s2.2-2.687-.562-5.941c.047.129-4.8-4.594-4.8-4.594a4.773,4.773,0,0,0-4.98,0c0,.059-7.406,7.164-7.406,7.164a2.623,2.623,0,0,1-2.812,0c-.059-.078-7.727-7.488-7.727-7.488S-16618.4-22598.037-16620-22596.506Z" transform="translate(16626.063 22608.182)" fill="#e2306c"/>
+      </g>
+    </g>
+    <g id="right-button" transform="translate(157 638)">
+      <g transform="matrix(1, 0, 0, 1, -157, -638)" filter="url(#Caminho_7443)">
+        <g id="Caminho_7443-2" data-name="Caminho 7443" transform="translate(157 638)" fill="#e2306c">
+          <path d="M 90 99.5 L 10 99.5 C 4.761680126190186 99.5 0.5 95.23831939697266 0.5 90 L 0.5 10 C 0.5 4.761680126190186 4.761680126190186 0.5 10 0.5 L 90 0.5 C 95.23831939697266 0.5 99.5 4.761680126190186 99.5 10 L 99.5 90 C 99.5 95.23831939697266 95.23831939697266 99.5 90 99.5 Z" stroke="none"/>
+          <path d="M 10 1 C 5.037384033203125 1 1 5.037384033203125 1 10 L 1 90 C 1 94.96261596679688 5.037384033203125 99 10 99 L 90 99 C 94.96261596679688 99 99 94.96261596679688 99 90 L 99 10 C 99 5.037384033203125 94.96261596679688 1 90 1 L 10 1 M 10 0 L 90 0 C 95.52285003662109 0 100 4.477149963378906 100 10 L 100 90 C 100 95.52285003662109 95.52285003662109 100 90 100 L 10 100 C 4.477149963378906 100 0 95.52285003662109 0 90 L 0 10 C 0 4.477149963378906 4.477149963378906 0 10 0 Z" stroke="none" fill="#ff4e8a"/>
+        </g>
+      </g>
+      <path id="Caminho_7456" data-name="Caminho 7456" d="M-1780-22541.865l19.021,19.021-19.021,19.021" transform="translate(1820.489 22572.844)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3"/>
+    </g>
+  </g>
+</svg>

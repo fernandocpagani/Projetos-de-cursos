@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="414" height="831" viewBox="0 0 414 831">
+  <defs>
+    <clipPath id="clip-reset-senha-1_1">
+      <rect width="414" height="831"/>
+    </clipPath>
+  </defs>
+  <g id="reset-senha-1_1" data-name="reset-senha-1 – 1" clip-path="url(#clip-reset-senha-1_1)">
+    <rect width="414" height="831" fill="#320995"/>
+    <text id="_Bangeek.ltda" data-name="® Bangeek.ltda" transform="translate(161 769)" fill="#fff" font-size="12" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">® Bangeek.ltda</tspan></text>
+    <g id="Grupo_484" data-name="Grupo 484" transform="translate(-4 5)">
+      <g id="Grupo_483" data-name="Grupo 483" transform="translate(414.781 575.5) rotate(180)">
+        <path id="Caminho_2382" data-name="Caminho 2382" d="M4435.513-2851.89l9.068,9.068-9.068,9.068" transform="translate(-4067.766 3378.822)" fill="none" stroke="#c8c7c7" stroke-linecap="round" stroke-width="3"/>
+      </g>
+    </g>
+    <text id="Como_precisa_de_ajuda_" data-name="Como precisa de ajuda?" transform="translate(101 201)" fill="#fff" font-size="20" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Como precisa de ajuda?</tspan></text>
+    <g id="Grupo_20279" data-name="Grupo 20279" transform="translate(5 -300)">
+      <path id="Caminho_7508" data-name="Caminho 7508" d="M10,0H318a10,10,0,0,1,10,10V50a10,10,0,0,1-10,10H10A10,10,0,0,1,0,50V10A10,10,0,0,1,10,0Z" transform="translate(38 570)" fill="#e2306c"/>
+      <text id="ESQUECI_MINHA_SENHA" data-name="ESQUECI MINHA SENHA" transform="translate(130 606)" fill="#fff" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">ESQUECI MINHA SENHA</tspan></text>
+    </g>
+    <g id="Grupo_20280" data-name="Grupo 20280" transform="translate(2 -293)">
+      <rect id="Retângulo_233" data-name="Retângulo 233" width="328" height="60" rx="10" transform="translate(41 643)" fill="#e2306c"/>
+      <text id="ESQUECI_MEU_NICKNAME" data-name="ESQUECI MEU NICKNAME" transform="translate(126 679)" fill="#fff" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">ESQUECI MEU NICKNAME</tspan></text>
+    </g>
+  </g>
+</svg>

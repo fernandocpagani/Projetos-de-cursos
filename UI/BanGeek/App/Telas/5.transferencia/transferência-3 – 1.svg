@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="414" height="831" viewBox="0 0 414 831">
+  <defs>
+    <clipPath id="clip-transferência-3_1">
+      <rect width="414" height="831"/>
+    </clipPath>
+  </defs>
+  <g id="transferência-3_1" data-name="transferência-3 – 1" clip-path="url(#clip-transferência-3_1)">
+    <rect width="414" height="831" fill="#320995"/>
+    <g id="Grupo_484" data-name="Grupo 484" transform="translate(-4 5)">
+      <g id="Grupo_483" data-name="Grupo 483" transform="translate(414.781 575.5) rotate(180)">
+        <path id="Caminho_2382" data-name="Caminho 2382" d="M4435.513-2851.89l9.068,9.068-9.068,9.068" transform="translate(-4067.766 3378.822)" fill="none" stroke="#c8c7c7" stroke-linecap="round" stroke-width="3"/>
+      </g>
+    </g>
+    <text id="Confira_se_está_tudo_correto" data-name="Confira se está tudo correto" transform="translate(110 50)" fill="#fff" font-size="14" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">Confira se está tudo correto</tspan></text>
+    <g id="Grupo_20279" data-name="Grupo 20279" transform="translate(-20 22)">
+      <rect id="Retângulo_232" data-name="Retângulo 232" width="378" height="60" rx="10" transform="translate(38 570)" fill="#e2306c"/>
+      <text id="CONFIRMAR_TRANSFERÊNCIA" data-name="CONFIRMAR TRANSFERÊNCIA" transform="translate(132 606)" fill="#fff" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">CONFIRMAR TRANSFERÊNCIA</tspan></text>
+    </g>
+    <rect id="Retângulo_246" data-name="Retângulo 246" width="378" height="486" rx="10" transform="translate(18 88)" fill="#f7f3ff"/>
+    <text id="Você_vai_transferir" data-name="Você vai transferir" transform="translate(159 146)" fill="#393939" font-size="12" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Você vai transferir</tspan></text>
+    <text id="R_100_00" data-name="R$ 100,00" transform="translate(130 201)" fill="#e2306c" font-size="33" font-family="Montserrat-Thin, Montserrat" font-weight="200"><tspan x="0" y="0">R$ 100,00</tspan></text>
+    <text id="TED_gratuita" data-name="TED gratuita" transform="translate(177 232)" fill="#e2306c" font-size="11" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">TED gratuita</tspan></text>
+    <g id="Grupo_20322" data-name="Grupo 20322" transform="translate(0 31)">
+      <g id="Grupo_20222" data-name="Grupo 20222">
+        <text id="Para" transform="translate(39 285)" fill="#393939" font-size="14" font-family="Montserrat-Regular, Montserrat" opacity="0.54"><tspan x="0" y="0">Para</tspan></text>
+        <text id="Lucas_Marte" data-name="Lucas Marte" transform="translate(39 310)" fill="#393939" font-size="14" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Lucas Marte</tspan></text>
+        <text id="CPF:_333.432.168.96" data-name="CPF: 333.432.168.96" transform="translate(39 335)" fill="#393939" font-size="14" font-family="Montserrat-Regular, Montserrat" opacity="0.5"><tspan x="0" y="0">CPF: 333.432.168.96</tspan></text>
+        <text id="Bradesco_S.A" data-name="Bradesco S.A" transform="translate(39 377)" fill="#393939" font-size="14" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Bradesco S.A</tspan></text>
+        <text id="Agência:_0627" data-name="Agência: 0627" transform="translate(39 402)" fill="#393939" font-size="14" font-family="Montserrat-Regular, Montserrat" opacity="0.5"><tspan x="0" y="0">Agência: 0627</tspan></text>
+        <text id="Número_da_conta:_04212779" data-name="Número da conta: 04212779" transform="translate(39 427)" fill="#393939" font-size="14" font-family="Montserrat-Regular, Montserrat" opacity="0.5"><tspan x="0" y="0">Número da conta: 04212779</tspan></text>
+        <text id="Tipo_de_conta:_Conta_corrente" data-name="Tipo de conta: Conta corrente" transform="translate(39 452)" fill="#393939" font-size="14" font-family="Montserrat-Regular, Montserrat" opacity="0.5"><tspan x="0" y="0">Tipo de conta: Conta corrente</tspan></text>
+      </g>
+      <path id="Caminho_7555" data-name="Caminho 7555" d="M0,0H378" transform="translate(18 488)" fill="none" stroke="#8d8d8d" stroke-width="1"/>
+      <text id="Segunda-feira_8_de_Fevereiro_de_2021" data-name="Segunda-feira, 8 de Fevereiro de 2021" transform="translate(39 518)" fill="#393939" font-size="14" font-family="Montserrat-Regular, Montserrat" opacity="0.5"><tspan x="0" y="0">Segunda-feira, 8 de Fevereiro de 2021</tspan></text>
+    </g>
+    <line id="Linha_76" data-name="Linha 76" x2="378" transform="translate(18 274)" fill="none" stroke="#8d8d8d" stroke-width="1" opacity="0.72"/>
+  </g>
+</svg>

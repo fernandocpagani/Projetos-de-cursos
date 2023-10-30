@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="180" height="106" viewBox="0 0 180 106">
+  <defs>
+    <clipPath id="clip-Prancheta_1">
+      <rect width="180" height="106"/>
+    </clipPath>
+  </defs>
+  <g id="Prancheta_1" data-name="Prancheta – 1" clip-path="url(#clip-Prancheta_1)">
+    <rect width="180" height="106" fill="#320995"/>
+    <g id="Grupo_20898" data-name="Grupo 20898" transform="translate(1700 -933)">
+      <g id="Grupo_20896" data-name="Grupo 20896" transform="translate(-1691 591)">
+        <g id="Grupo_20394" data-name="Grupo 20394" transform="translate(-108 44)">
+          <path id="Caminho_7465" data-name="Caminho 7465" d="M243.436,352a17.779,17.779,0,0,0,9.97,3.433A14.941,14.941,0,0,0,263.266,352" transform="translate(2.648 -1.346)" fill="none" stroke="#fff" stroke-width="1"/>
+          <g id="Grupo_20392" data-name="Grupo 20392">
+            <path id="Caminho_7466" data-name="Caminho 7466" d="M264,352l1.451,2.508" fill="none" stroke="#fff" stroke-width="1"/>
+            <path id="Caminho_7467" data-name="Caminho 7467" d="M264,352l.586,2.258" transform="translate(-5 2.092)" fill="none" stroke="#fff" stroke-width="1"/>
+          </g>
+          <g id="Grupo_20393" data-name="Grupo 20393" transform="translate(-12.736)">
+            <path id="Caminho_7466-2" data-name="Caminho 7466" d="M265.515,352,264,354.508" transform="translate(-5)" fill="none" stroke="#fff" stroke-width="1"/>
+            <path id="Caminho_7467-2" data-name="Caminho 7467" d="M264.612,352,264,354.258" transform="translate(1.124 2.092)" fill="none" stroke="#fff" stroke-width="1"/>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_20897" data-name="Grupo 20897" transform="translate(-1711.465 889)">
+        <g id="Grupo_20166" data-name="Grupo 20166" transform="translate(0 8)">
+          <g id="Grupo_20101" data-name="Grupo 20101" transform="translate(18 49.35)">
+            <text id="R_" data-name="R$ ***,**" transform="translate(0 46.806)" fill="#fff" font-size="26" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">R$ ***,**</tspan></text>
+            <text id="Saldo" transform="translate(18 13)" fill="#fff" font-size="13" font-family="Montserrat-Regular, Montserrat"><tspan x="-18.064" y="0">Saldo</tspan></text>
+          </g>
+          <g id="Grupo_20107" data-name="Grupo 20107" transform="translate(18 120.852)">
+            <text id="_5347" data-name="**** **** **** 5347" transform="translate(92 13.57)" fill="#fff" font-size="16" font-family="Montserrat-Regular, Montserrat"><tspan x="-63.384" y="0">**** **** **** 5347</tspan></text>
+            <g id="Grupo_1120" data-name="Grupo 1120" transform="translate(0 0.365)">
+              <g id="Grupo_42" data-name="Grupo 42" transform="translate(0 0)">
+                <rect id="Retângulo_21" data-name="Retângulo 21" width="5.765" height="10.36" transform="translate(7.778 1.408)" fill="#ff960c"/>
+                <path id="Caminho_45" data-name="Caminho 45" d="M2.516,6.588A6.579,6.579,0,0,1,0,11.768,6.588,6.588,0,1,0,0,1.408a6.577,6.577,0,0,1,2.516,5.18" transform="translate(10.661 0)" fill="#ffef0c"/>
+                <path id="Caminho_46" data-name="Caminho 46" d="M0,6.588a6.589,6.589,0,0,1,10.66-5.18,6.591,6.591,0,0,0,0,10.36A6.589,6.589,0,0,1,0,6.588" transform="translate(0 0)" fill="#fe0101"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

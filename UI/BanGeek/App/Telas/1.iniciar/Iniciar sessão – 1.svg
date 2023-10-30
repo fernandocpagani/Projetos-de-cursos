@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="414" height="831" viewBox="0 0 414 831">
+  <defs>
+    <filter id="Caminho_7443" x="127" y="407" width="160" height="160" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-color="#ff4e8a"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Iniciar_sessão_1">
+      <rect width="414" height="831"/>
+    </clipPath>
+  </defs>
+  <g id="Iniciar_sessão_1" data-name="Iniciar sessão – 1" clip-path="url(#clip-Iniciar_sessão_1)">
+    <rect width="414" height="831" fill="#320995"/>
+    <text id="_Bangeek.ltda" data-name="® Bangeek.ltda" transform="translate(161 769)" fill="#fff" font-size="12" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">® Bangeek.ltda</tspan></text>
+    <text id="Iniciar_Sessão" data-name="Iniciar Sessão" transform="translate(145 201)" fill="#fff" font-size="20" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Iniciar Sessão</tspan></text>
+    <g id="Grupo_20281" data-name="Grupo 20281" transform="translate(5 26)">
+      <rect id="Retângulo_234" data-name="Retângulo 234" width="328" height="60" rx="10" transform="translate(38 244)" fill="#5b31c1"/>
+      <text id="NICKNAME" transform="translate(61 280)" fill="#fff" font-size="14" font-family="Roboto-Regular, Roboto" opacity="0.3"><tspan x="0" y="0">NICKNAME</tspan></text>
+    </g>
+    <g id="Grupo_20282" data-name="Grupo 20282" transform="translate(5 25)">
+      <rect id="Retângulo_235" data-name="Retângulo 235" width="328" height="60" rx="10" transform="translate(38 325)" fill="#5b31c1"/>
+      <text id="SENHA" transform="translate(61 361)" fill="#fff" font-size="14" font-family="Roboto-Regular, Roboto" opacity="0.3"><tspan x="0" y="0">SENHA</tspan></text>
+    </g>
+    <text id="NÃO_CONSEGUE_FAZER_LOGIN_" data-name="NÃO CONSEGUE FAZER LOGIN?" transform="translate(115 589)" fill="#fff" font-size="13" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">NÃO CONSEGUE FAZER LOGIN?</tspan></text>
+    <text id="CRIAR_CONTA" data-name="CRIAR CONTA" transform="translate(166 633)" fill="#fff" font-size="13" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">CRIAR CONTA</tspan></text>
+    <g id="left" transform="translate(18 34)">
+      <path id="Caminho_2377" data-name="Caminho 2377" d="M1243,2264l8,8-8,8" transform="translate(1251 2280) rotate(180)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1.5"/>
+    </g>
+    <g id="Grupo_20862" data-name="Grupo 20862">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Caminho_7443)">
+        <path id="Caminho_7443-2" data-name="Caminho 7443" d="M10,0H90a10,10,0,0,1,10,10V90a10,10,0,0,1-10,10H10A10,10,0,0,1,0,90V10A10,10,0,0,1,10,0Z" transform="translate(157 434)" fill="#e2306c"/>
+      </g>
+      <g id="Digital" transform="translate(188.942 453.984)">
+        <path id="Caminho_2383" data-name="Caminho 2383" d="M109.058,56.034a17.6,17.6,0,0,1-13.372-5.749.821.821,0,1,1,1.225-1.093,15.978,15.978,0,0,0,12.147,5.2,17.289,17.289,0,0,0,6.135-1.084.821.821,0,0,1,.58,1.536,18.923,18.923,0,0,1-6.716,1.19Zm3.885-4.256c-7.9,0-11.029-3.908-12.534-5.787-.2-.252-.445-.555-.587-.692-.135.04-.368.138-.563.22a12.98,12.98,0,0,1-5.553,1.105.821.821,0,0,1,0-1.642,11.34,11.34,0,0,0,4.916-.977A2.415,2.415,0,0,1,100.3,43.7c.5.153.849.6,1.386,1.265,1.448,1.807,4.144,5.172,11.253,5.172,5.29,0,8.3-1.419,9.1-1.854a.821.821,0,1,1,.787,1.441C121.7,50.341,118.467,51.778,112.943,51.778Zm1.642-4.823a.821.821,0,1,1,0-1.642,13.5,13.5,0,0,0,10.672-4.6.821.821,0,1,1,1.238,1.078,15.078,15.078,0,0,1-11.91,5.165Zm-3.5-.4a.82.82,0,0,1-.194-.023,12.092,12.092,0,0,1-7.548-5.417,15.964,15.964,0,0,1-2.022-5.139,9.89,9.89,0,0,1-9.093,6.044.821.821,0,0,1,0-1.642c3.2,0,8.619-2.191,8.619-10.4V23.61c0-4.175.763-7.65,2.206-10.051a6.872,6.872,0,0,1,6-3.71,6.561,6.561,0,0,1,5.04,2.378,13.333,13.333,0,0,1,2.776,6.534.821.821,0,0,1-1.617.286c-.848-4.8-3.108-7.557-6.2-7.557-4.05,0-6.566,4.644-6.566,12.119v7.7c0,7.313,3.2,12.282,8.789,13.633a.821.821,0,0,1-.192,1.619Zm3.759-4.536a8.21,8.21,0,0,1-6.955-3.49,12.474,12.474,0,0,1-2.117-7.226v-7.7a24.506,24.506,0,0,1,.579-5.718c.536-2.069,1.446-3.117,2.7-3.117a2.045,2.045,0,0,1,1.522.731c1.432,1.552,2.139,5.771,1.758,10.5a.821.821,0,1,1-1.636-.132c.376-4.667-.4-8.251-1.328-9.253-.07-.076-.2-.2-.316-.2-.682,0-1.642,2.232-1.642,7.194,0,4.856,1.489,7.873,3.885,7.873a3.374,3.374,0,0,0,3.026-1.59c.861-1.309,1.3-3.423,1.3-6.284,0-.354-.006-.709-.017-1.055a.821.821,0,1,1,1.641-.054c.012.364.018.737.018,1.109,0,3.232-.513,5.582-1.567,7.185a4.971,4.971,0,0,1-4.4,2.33,4.6,4.6,0,0,1-3.885-2.3v.486c0,4.517,2.3,9.075,7.431,9.075a8.883,8.883,0,0,0,7.554-4.223c2.011-2.972,3.074-7.311,3.074-12.548,0-6.3-1.494-11.689-4.321-15.583a16.867,16.867,0,0,0-2.513-2.772.821.821,0,0,1,1.083-1.234,18.522,18.522,0,0,1,2.759,3.041c3.032,4.176,4.634,9.9,4.634,16.547,0,5.566-1.16,10.223-3.356,13.468a10.458,10.458,0,0,1-8.913,4.945Zm-1.153-4.542a.821.821,0,0,1,0-1.642c4.71,0,6.855-6.339,6.855-12.229,0-5.164-1.192-9.884-3.188-12.627a10.013,10.013,0,0,0-16.606,0,18.443,18.443,0,0,0-2.83,7.815.821.821,0,0,1-1.622-.251,20.074,20.074,0,0,1,3.125-8.53,11.652,11.652,0,0,1,19.26,0c2.193,3.013,3.5,8.095,3.5,13.593a20.448,20.448,0,0,1-2.076,9.547c-1.539,2.829-3.76,4.324-6.421,4.324Zm-21.873-.062a.821.821,0,0,1,0-1.642c1.984,0,4.1-1.524,4.1-5.8V23.61c0-.369.006-.742.017-1.107a.821.821,0,0,1,1.641.051c-.011.348-.016.7-.016,1.056v6.366C97.566,35.47,94.471,37.419,91.821,37.419Zm0-5.422A.821.821,0,0,1,91,31.176V23.61c0-6.65,1.6-12.372,4.634-16.547A16.326,16.326,0,0,1,109.058,0a15.879,15.879,0,0,1,7.54,1.856.821.821,0,1,1-.771,1.449,14.254,14.254,0,0,0-6.769-1.664,14.724,14.724,0,0,0-12.1,6.386c-2.827,3.893-4.321,9.282-4.321,15.583v7.565A.821.821,0,0,1,91.821,32Z" transform="translate(-91 0)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

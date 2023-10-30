@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="414" height="831" viewBox="0 0 414 831">
+  <defs>
+    <clipPath id="clip-transferência-4_1">
+      <rect width="414" height="831"/>
+    </clipPath>
+  </defs>
+  <g id="transferência-4_1" data-name="transferência-4 – 1" clip-path="url(#clip-transferência-4_1)">
+    <rect width="414" height="831" fill="#320995"/>
+    <g id="Grupo_484" data-name="Grupo 484" transform="translate(-4 5)">
+      <g id="Grupo_483" data-name="Grupo 483" transform="translate(414.781 575.5) rotate(180)">
+        <path id="Caminho_2382" data-name="Caminho 2382" d="M4435.513-2851.89l9.068,9.068-9.068,9.068" transform="translate(-4067.766 3378.822)" fill="none" stroke="#c8c7c7" stroke-linecap="round" stroke-width="3"/>
+      </g>
+    </g>
+    <text id="Transferência_realizada_com_sucesso_" data-name="Transferência realizada com sucesso!" transform="translate(78 50)" fill="#a5a5a5" font-size="14" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">Transferência realizada com sucesso!</tspan></text>
+    <g id="Grupo_20279" data-name="Grupo 20279" transform="translate(-20 98)">
+      <path id="Caminho_7556" data-name="Caminho 7556" d="M10,0H368a10,10,0,0,1,10,10V50a10,10,0,0,1-10,10H10A10,10,0,0,1,0,50V10A10,10,0,0,1,10,0Z" transform="translate(38 570)" fill="#e2306c"/>
+      <text id="Compartilhar" transform="translate(187 606)" fill="#fff" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Compartilhar</tspan></text>
+    </g>
+    <rect id="Retângulo_246" data-name="Retângulo 246" width="378" height="557" rx="10" transform="translate(18 93)" fill="#f7f3ff"/>
+    <text id="R_100_00" data-name="R$ 100,00" transform="translate(130 298)" fill="#e2306c" font-size="33" font-family="Montserrat-Thin, Montserrat" font-weight="200"><tspan x="0" y="0">R$ 100,00</tspan></text>
+    <text id="TED_gratuita" data-name="TED gratuita" transform="translate(177 329)" fill="#e2306c" font-size="11" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">TED gratuita</tspan></text>
+    <g id="Grupo_20322" data-name="Grupo 20322" transform="translate(0 107)">
+      <g id="Grupo_20222" data-name="Grupo 20222">
+        <text id="Para" transform="translate(39 285)" fill="#393939" font-size="14" font-family="Montserrat-Regular, Montserrat" opacity="0.54"><tspan x="0" y="0">Para</tspan></text>
+        <text id="Lucas_Marte" data-name="Lucas Marte" transform="translate(39 310)" fill="#393939" font-size="14" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Lucas Marte</tspan></text>
+        <text id="CPF:_333.432.168.96" data-name="CPF: 333.432.168.96" transform="translate(39 335)" fill="#393939" font-size="14" font-family="Montserrat-Regular, Montserrat" opacity="0.5"><tspan x="0" y="0">CPF: 333.432.168.96</tspan></text>
+        <text id="Bradesco_S.A" data-name="Bradesco S.A" transform="translate(39 377)" fill="#393939" font-size="14" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Bradesco S.A</tspan></text>
+        <text id="Agência:_0627" data-name="Agência: 0627" transform="translate(39 402)" fill="#393939" font-size="14" font-family="Montserrat-Regular, Montserrat" opacity="0.5"><tspan x="0" y="0">Agência: 0627</tspan></text>
+        <text id="Número_da_conta:_04212779" data-name="Número da conta: 04212779" transform="translate(39 427)" fill="#393939" font-size="14" font-family="Montserrat-Regular, Montserrat" opacity="0.5"><tspan x="0" y="0">Número da conta: 04212779</tspan></text>
+        <text id="Tipo_de_conta:_Conta_corrente" data-name="Tipo de conta: Conta corrente" transform="translate(39 452)" fill="#393939" font-size="14" font-family="Montserrat-Regular, Montserrat" opacity="0.5"><tspan x="0" y="0">Tipo de conta: Conta corrente</tspan></text>
+      </g>
+      <line id="Linha_77" data-name="Linha 77" x2="378" transform="translate(18 488)" fill="none" stroke="#8d8d8d" stroke-width="1"/>
+      <text id="Segunda-feira_8_de_Fevereiro_de_2021" data-name="Segunda-feira, 8 de Fevereiro de 2021" transform="translate(39 518)" fill="#393939" font-size="14" font-family="Montserrat-Regular, Montserrat" opacity="0.5"><tspan x="0" y="0">Segunda-feira, 8 de Fevereiro de 2021</tspan></text>
+    </g>
+    <line id="Linha_76" data-name="Linha 76" x2="378" transform="translate(18 350)" fill="none" stroke="#8d8d8d" stroke-width="1" opacity="0.72"/>
+    <g id="Grupo_20323" data-name="Grupo 20323" transform="translate(-20 176)">
+      <path id="Caminho_7557" data-name="Caminho 7557" d="M10,0H368a10,10,0,0,1,10,10V50a10,10,0,0,1-10,10H10A10,10,0,0,1,0,50V10A10,10,0,0,1,10,0Z" transform="translate(38 570)" fill="#e2306c"/>
+      <text id="Nova_Transferência" data-name="Nova Transferência" transform="translate(167 606)" fill="#fff" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Nova Transferência</tspan></text>
+    </g>
+    <g id="Grupo_20871" data-name="Grupo 20871" transform="translate(29.675 -80.649)">
+      <g id="Caminho_7517" data-name="Caminho 7517" transform="translate(126 216)" fill="none">
+        <path d="M51.325,0A51.325,51.325,0,1,1,0,51.325,51.325,51.325,0,0,1,51.325,0Z" stroke="none"/>
+        <path d="M 51.32451248168945 3.000007629394531 C 44.79941940307617 3.000007629394531 38.47111511230469 4.27728271484375 32.51535797119141 6.796356201171875 C 26.76126861572266 9.230125427246094 21.59292602539062 12.71491241455078 17.1539306640625 17.1539306640625 C 12.71491241455078 21.59292602539062 9.230125427246094 26.76126861572266 6.796356201171875 32.51535797119141 C 4.27728271484375 38.47111511230469 3.000007629394531 44.79941940307617 3.000007629394531 51.32451248168945 C 3.000007629394531 57.84960556030273 4.27728271484375 64.17791748046875 6.796356201171875 70.1336669921875 C 9.230125427246094 75.88775634765625 12.71491241455078 81.05609893798828 17.1539306640625 85.49509429931641 C 21.59292602539062 89.93411254882812 26.76126861572266 93.41889953613281 32.51535797119141 95.85266876220703 C 38.47111511230469 98.37174224853516 44.79941940307617 99.64901733398438 51.32451248168945 99.64901733398438 C 57.84960556030273 99.64901733398438 64.17791748046875 98.37174224853516 70.1336669921875 95.85266876220703 C 75.88775634765625 93.41889953613281 81.05609893798828 89.93411254882812 85.49509429931641 85.49509429931641 C 89.93411254882812 81.05609893798828 93.41889953613281 75.88775634765625 95.85266876220703 70.1336669921875 C 98.37174224853516 64.17791748046875 99.64901733398438 57.84960556030273 99.64901733398438 51.32451248168945 C 99.64901733398438 44.79941940307617 98.37174224853516 38.47111511230469 95.85266876220703 32.51535797119141 C 93.41889953613281 26.76126861572266 89.93411254882812 21.59292602539062 85.49509429931641 17.1539306640625 C 81.05609893798828 12.71491241455078 75.88775634765625 9.230125427246094 70.1336669921875 6.796356201171875 C 64.17791748046875 4.27728271484375 57.84960556030273 3.000007629394531 51.32451248168945 3.000007629394531 M 51.32451248168945 7.62939453125e-06 C 79.67024993896484 7.62939453125e-06 102.6490173339844 22.97877502441406 102.6490173339844 51.32451248168945 C 102.6490173339844 79.67024993896484 79.67024993896484 102.6490173339844 51.32451248168945 102.6490173339844 C 22.97877502441406 102.6490173339844 7.62939453125e-06 79.67024993896484 7.62939453125e-06 51.32451248168945 C 7.62939453125e-06 22.97877502441406 22.97877502441406 7.62939453125e-06 51.32451248168945 7.62939453125e-06 Z" stroke="none" fill="#e2306c"/>
+      </g>
+      <path id="Caminho_7518" data-name="Caminho 7518" d="M-3694.671,5684.165c19.712,22.4,20.608,21.952,20.608,21.952l35.168-35.168" transform="translate(3843.792 -5417.197)" fill="none" stroke="#26e55f" stroke-width="3"/>
+    </g>
+  </g>
+</svg>
